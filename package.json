@@ -1,0 +1,15 @@
+{
+  "name": "express-hogan-cache",
+  "version": "0.0.1",
+  "description": "Compile and cache Hogan templates view engine for Express",
+  "main": "./index.js",
+  "scripts": {
+    "eslint": "eslint ./"
+  },
+  "author": {
+    "name": "jonathan Perry for Sequence Media Limited",
+    "email": "sequencemedia@sequencemedia.net",
+    "url": "http://sequencemedia.net"
+  },
+  "license": "UNLICENSED"
+}
