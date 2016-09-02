@@ -4,15 +4,16 @@
   "description": "View engine for Express implementing Hogan templates",
   "main": "./index.js",
   "scripts": {
-    "eslint": "eslint ./"
+    "eslint": "eslint ./lib"
   },
   "author": {
-    "name": "jonathan Perry for Sequence Media Limited",
+    "name": "Jonathan Perry for Sequence Media Limited",
     "email": "sequencemedia@sequencemedia.net",
     "url": "http://sequencemedia.net"
   },
   "license": "UNLICENSED",
   "dependencies": {
+    "hogan-cache": "^0.0.1",
     "babel-core": "^6.10.4",
     "babel-eslint": "^6.1.0",
     "babel-plugin-transform-class-properties": "^6.9.1",
